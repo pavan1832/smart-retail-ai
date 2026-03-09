@@ -1,0 +1,499 @@
+product_id,name,category,base_price
+1,Running Shoes v1,Footwear,3268.25
+2,Casual Sneakers v1,Footwear,319.05
+3,Formal Shoes v1,Footwear,1519.14
+4,Sandals v1,Footwear,1270.41
+5,Boots v1,Footwear,3734.06
+6,Loafers v1,Footwear,3447.16
+7,Running Shoes v2,Footwear,4481.46
+8,Casual Sneakers v2,Footwear,616.31
+9,Formal Shoes v2,Footwear,2224.22
+10,Sandals v2,Footwear,342.03
+11,Boots v2,Footwear,1248.46
+12,Loafers v2,Footwear,2624.71
+13,Running Shoes v3,Footwear,326.37
+14,Casual Sneakers v3,Footwear,1153.42
+15,Formal Shoes v3,Footwear,3318.45
+16,Sandals v3,Footwear,2814.72
+17,Boots v3,Footwear,1257.11
+18,Loafers v3,Footwear,3027.48
+19,Running Shoes v4,Footwear,4084.27
+20,Casual Sneakers v4,Footwear,230.19
+21,Formal Shoes v4,Footwear,4066.93
+22,Sandals v4,Footwear,3550.07
+23,Boots v4,Footwear,1832.2
+24,Loafers v4,Footwear,945.3
+25,Running Shoes v5,Footwear,4793.62
+26,Casual Sneakers v5,Footwear,1814.65
+27,Formal Shoes v5,Footwear,644.18
+28,Sandals v5,Footwear,663.24
+29,Boots v5,Footwear,4266.97
+30,Loafers v5,Footwear,3096.88
+31,Running Shoes v6,Footwear,4073.22
+32,Casual Sneakers v6,Footwear,3701.71
+33,Formal Shoes v6,Footwear,2772.89
+34,Sandals v6,Footwear,4869.96
+35,Boots v6,Footwear,2015.97
+36,Loafers v6,Footwear,2848.8
+37,Running Shoes v7,Footwear,4180.14
+38,Casual Sneakers v7,Footwear,3167.89
+39,Formal Shoes v7,Footwear,4335.19
+40,Sandals v7,Footwear,2970.29
+41,Boots v7,Footwear,3580.94
+42,Loafers v7,Footwear,418.96
+43,Running Shoes v8,Footwear,1292.91
+44,Casual Sneakers v8,Footwear,1588.06
+45,Formal Shoes v8,Footwear,582.0
+46,Sandals v8,Footwear,1316.4
+47,Boots v8,Footwear,683.81
+48,Loafers v8,Footwear,1533.27
+49,Running Shoes v9,Footwear,3250.29
+50,Casual Sneakers v9,Footwear,1950.19
+51,Formal Shoes v9,Footwear,1975.87
+52,Sandals v9,Footwear,1204.63
+53,Boots v9,Footwear,1480.49
+54,Loafers v9,Footwear,4694.94
+55,Running Shoes v10,Footwear,3309.57
+56,Casual Sneakers v10,Footwear,3122.83
+57,Formal Shoes v10,Footwear,1020.47
+58,Sandals v10,Footwear,3698.81
+59,Boots v10,Footwear,983.33
+60,Loafers v10,Footwear,2020.39
+61,Running Shoes v11,Footwear,4948.71
+62,Casual Sneakers v11,Footwear,3271.0
+63,Formal Shoes v11,Footwear,2872.36
+64,Sandals v11,Footwear,3485.15
+65,Boots v11,Footwear,4244.69
+66,Loafers v11,Footwear,3923.8
+67,Running Shoes v12,Footwear,1298.43
+68,Casual Sneakers v12,Footwear,353.08
+69,Formal Shoes v12,Footwear,1713.17
+70,Sandals v12,Footwear,1484.16
+71,Boots v12,Footwear,1211.72
+72,Loafers v12,Footwear,4724.97
+73,Running Shoes v13,Footwear,4405.56
+74,Casual Sneakers v13,Footwear,1709.45
+75,Formal Shoes v13,Footwear,3345.11
+76,Sandals v13,Footwear,2098.03
+77,Boots v13,Footwear,4588.83
+78,Loafers v13,Footwear,2401.49
+79,Running Shoes v14,Footwear,1470.42
+80,Casual Sneakers v14,Footwear,1382.81
+81,Formal Shoes v14,Footwear,2893.57
+82,Sandals v14,Footwear,1460.16
+83,Boots v14,Footwear,3005.01
+84,T-Shirt v1,Apparel,4508.55
+85,Jeans v1,Apparel,2116.12
+86,Jacket v1,Apparel,1251.74
+87,Kurta v1,Apparel,4987.18
+88,Dress v1,Apparel,2644.73
+89,Shorts v1,Apparel,635.37
+90,T-Shirt v2,Apparel,425.16
+91,Jeans v2,Apparel,725.32
+92,Jacket v2,Apparel,3210.74
+93,Kurta v2,Apparel,4000.98
+94,Dress v2,Apparel,2225.37
+95,Shorts v2,Apparel,503.93
+96,T-Shirt v3,Apparel,2030.77
+97,Jeans v3,Apparel,4980.38
+98,Jacket v3,Apparel,2738.75
+99,Kurta v3,Apparel,4860.18
+100,Dress v3,Apparel,4330.74
+101,Shorts v3,Apparel,254.11
+102,T-Shirt v4,Apparel,3658.46
+103,Jeans v4,Apparel,3471.21
+104,Jacket v4,Apparel,2776.46
+105,Kurta v4,Apparel,1479.76
+106,Dress v4,Apparel,3275.62
+107,Shorts v4,Apparel,734.45
+108,T-Shirt v5,Apparel,2285.87
+109,Jeans v5,Apparel,2376.87
+110,Jacket v5,Apparel,4777.32
+111,Kurta v5,Apparel,4403.09
+112,Dress v5,Apparel,1463.27
+113,Shorts v5,Apparel,2601.81
+114,T-Shirt v6,Apparel,1056.53
+115,Jeans v6,Apparel,4579.61
+116,Jacket v6,Apparel,4377.49
+117,Kurta v6,Apparel,1631.53
+118,Dress v6,Apparel,3265.96
+119,Shorts v6,Apparel,3122.06
+120,T-Shirt v7,Apparel,932.63
+121,Jeans v7,Apparel,3859.05
+122,Jacket v7,Apparel,2788.02
+123,Kurta v7,Apparel,3936.41
+124,Dress v7,Apparel,2744.7
+125,Shorts v7,Apparel,201.75
+126,T-Shirt v8,Apparel,1754.95
+127,Jeans v8,Apparel,292.49
+128,Jacket v8,Apparel,4658.67
+129,Kurta v8,Apparel,4416.87
+130,Dress v8,Apparel,4190.99
+131,Shorts v8,Apparel,1675.07
+132,T-Shirt v9,Apparel,477.04
+133,Jeans v9,Apparel,4413.45
+134,Jacket v9,Apparel,4744.36
+135,Kurta v9,Apparel,610.14
+136,Dress v9,Apparel,2531.75
+137,Shorts v9,Apparel,531.22
+138,T-Shirt v10,Apparel,3849.89
+139,Jeans v10,Apparel,3875.01
+140,Jacket v10,Apparel,815.28
+141,Kurta v10,Apparel,2480.36
+142,Dress v10,Apparel,2838.06
+143,Shorts v10,Apparel,1471.27
+144,T-Shirt v11,Apparel,4386.68
+145,Jeans v11,Apparel,2230.06
+146,Jacket v11,Apparel,1215.63
+147,Kurta v11,Apparel,2787.62
+148,Dress v11,Apparel,3702.67
+149,Shorts v11,Apparel,1164.53
+150,T-Shirt v12,Apparel,1695.24
+151,Jeans v12,Apparel,4975.72
+152,Jacket v12,Apparel,3318.41
+153,Kurta v12,Apparel,2301.88
+154,Dress v12,Apparel,2683.36
+155,Shorts v12,Apparel,779.82
+156,T-Shirt v13,Apparel,1277.55
+157,Jeans v13,Apparel,1821.81
+158,Jacket v13,Apparel,3022.88
+159,Kurta v13,Apparel,1303.55
+160,Dress v13,Apparel,1256.04
+161,Shorts v13,Apparel,539.77
+162,T-Shirt v14,Apparel,3228.29
+163,Jeans v14,Apparel,1297.92
+164,Jacket v14,Apparel,4545.02
+165,Kurta v14,Apparel,4325.25
+166,Dress v14,Apparel,539.12
+167,Earbuds v1,Electronics,1341.42
+168,Smart Watch v1,Electronics,3410.09
+169,Phone Case v1,Electronics,1227.34
+170,Charger v1,Electronics,834.1
+171,Power Bank v1,Electronics,4689.47
+172,Speaker v1,Electronics,2940.01
+173,Earbuds v2,Electronics,2467.82
+174,Smart Watch v2,Electronics,3965.17
+175,Phone Case v2,Electronics,4074.99
+176,Charger v2,Electronics,1112.97
+177,Power Bank v2,Electronics,664.27
+178,Speaker v2,Electronics,2268.05
+179,Earbuds v3,Electronics,2232.18
+180,Smart Watch v3,Electronics,2440.72
+181,Phone Case v3,Electronics,3698.56
+182,Charger v3,Electronics,3431.15
+183,Power Bank v3,Electronics,4922.99
+184,Speaker v3,Electronics,671.41
+185,Earbuds v4,Electronics,2131.58
+186,Smart Watch v4,Electronics,1827.65
+187,Phone Case v4,Electronics,4335.03
+188,Charger v4,Electronics,1392.55
+189,Power Bank v4,Electronics,1112.0
+190,Speaker v4,Electronics,2352.35
+191,Earbuds v5,Electronics,2224.03
+192,Smart Watch v5,Electronics,1536.02
+193,Phone Case v5,Electronics,1398.07
+194,Charger v5,Electronics,4630.67
+195,Power Bank v5,Electronics,2326.03
+196,Speaker v5,Electronics,4333.48
+197,Earbuds v6,Electronics,2840.56
+198,Smart Watch v6,Electronics,441.82
+199,Phone Case v6,Electronics,4995.56
+200,Charger v6,Electronics,4211.93
+201,Power Bank v6,Electronics,4850.18
+202,Speaker v6,Electronics,4645.56
+203,Earbuds v7,Electronics,4272.74
+204,Smart Watch v7,Electronics,997.29
+205,Phone Case v7,Electronics,2530.08
+206,Charger v7,Electronics,1224.99
+207,Power Bank v7,Electronics,2123.99
+208,Speaker v7,Electronics,480.45
+209,Earbuds v8,Electronics,2018.07
+210,Smart Watch v8,Electronics,4928.48
+211,Phone Case v8,Electronics,1471.97
+212,Charger v8,Electronics,3962.54
+213,Power Bank v8,Electronics,2383.04
+214,Speaker v8,Electronics,2229.44
+215,Earbuds v9,Electronics,4794.12
+216,Smart Watch v9,Electronics,4977.03
+217,Phone Case v9,Electronics,2866.69
+218,Charger v9,Electronics,3647.36
+219,Power Bank v9,Electronics,942.02
+220,Speaker v9,Electronics,1623.2
+221,Earbuds v10,Electronics,4848.8
+222,Smart Watch v10,Electronics,2979.07
+223,Phone Case v10,Electronics,2801.54
+224,Charger v10,Electronics,3789.28
+225,Power Bank v10,Electronics,473.39
+226,Speaker v10,Electronics,3003.05
+227,Earbuds v11,Electronics,2612.68
+228,Smart Watch v11,Electronics,4292.06
+229,Phone Case v11,Electronics,954.68
+230,Charger v11,Electronics,4810.74
+231,Power Bank v11,Electronics,583.54
+232,Speaker v11,Electronics,1090.96
+233,Earbuds v12,Electronics,3055.17
+234,Smart Watch v12,Electronics,3440.02
+235,Phone Case v12,Electronics,1327.98
+236,Charger v12,Electronics,774.46
+237,Power Bank v12,Electronics,4472.38
+238,Speaker v12,Electronics,1380.83
+239,Earbuds v13,Electronics,3052.69
+240,Smart Watch v13,Electronics,3172.03
+241,Phone Case v13,Electronics,2211.28
+242,Charger v13,Electronics,3000.63
+243,Power Bank v13,Electronics,2708.36
+244,Speaker v13,Electronics,4685.59
+245,Earbuds v14,Electronics,1179.44
+246,Smart Watch v14,Electronics,3636.72
+247,Phone Case v14,Electronics,1344.69
+248,Charger v14,Electronics,2098.77
+249,Power Bank v14,Electronics,3423.11
+250,Sunglasses v1,Accessories,1638.99
+251,Belt v1,Accessories,1716.65
+252,Wallet v1,Accessories,3807.95
+253,Cap v1,Accessories,547.21
+254,Scarf v1,Accessories,2398.77
+255,Watch v1,Accessories,4991.58
+256,Sunglasses v2,Accessories,4980.26
+257,Belt v2,Accessories,550.65
+258,Wallet v2,Accessories,1222.14
+259,Cap v2,Accessories,1471.96
+260,Scarf v2,Accessories,4678.65
+261,Watch v2,Accessories,4427.15
+262,Sunglasses v3,Accessories,4419.5
+263,Belt v3,Accessories,1972.73
+264,Wallet v3,Accessories,956.18
+265,Cap v3,Accessories,4200.98
+266,Scarf v3,Accessories,3575.99
+267,Watch v3,Accessories,3135.05
+268,Sunglasses v4,Accessories,4937.72
+269,Belt v4,Accessories,3338.09
+270,Wallet v4,Accessories,236.55
+271,Cap v4,Accessories,4121.1
+272,Scarf v4,Accessories,1636.02
+273,Watch v4,Accessories,3383.27
+274,Sunglasses v5,Accessories,4705.86
+275,Belt v5,Accessories,843.6
+276,Wallet v5,Accessories,753.06
+277,Cap v5,Accessories,712.77
+278,Scarf v5,Accessories,2854.47
+279,Watch v5,Accessories,1506.27
+280,Sunglasses v6,Accessories,3102.18
+281,Belt v6,Accessories,3643.54
+282,Wallet v6,Accessories,1176.27
+283,Cap v6,Accessories,3243.34
+284,Scarf v6,Accessories,1466.12
+285,Watch v6,Accessories,2543.95
+286,Sunglasses v7,Accessories,4544.62
+287,Belt v7,Accessories,4260.3
+288,Wallet v7,Accessories,642.03
+289,Cap v7,Accessories,2232.16
+290,Scarf v7,Accessories,1527.07
+291,Watch v7,Accessories,216.02
+292,Sunglasses v8,Accessories,3900.37
+293,Belt v8,Accessories,3257.14
+294,Wallet v8,Accessories,1456.39
+295,Cap v8,Accessories,3756.91
+296,Scarf v8,Accessories,2847.07
+297,Watch v8,Accessories,2251.9
+298,Sunglasses v9,Accessories,245.41
+299,Belt v9,Accessories,560.17
+300,Wallet v9,Accessories,4437.91
+301,Cap v9,Accessories,4537.86
+302,Scarf v9,Accessories,2817.83
+303,Watch v9,Accessories,4205.06
+304,Sunglasses v10,Accessories,2995.05
+305,Belt v10,Accessories,909.85
+306,Wallet v10,Accessories,810.74
+307,Cap v10,Accessories,1678.64
+308,Scarf v10,Accessories,4514.11
+309,Watch v10,Accessories,4020.39
+310,Sunglasses v11,Accessories,4330.37
+311,Belt v11,Accessories,4513.84
+312,Wallet v11,Accessories,1207.37
+313,Cap v11,Accessories,1396.74
+314,Scarf v11,Accessories,692.41
+315,Watch v11,Accessories,3943.56
+316,Sunglasses v12,Accessories,4442.85
+317,Belt v12,Accessories,2149.61
+318,Wallet v12,Accessories,3178.18
+319,Cap v12,Accessories,940.86
+320,Scarf v12,Accessories,4662.43
+321,Watch v12,Accessories,4349.11
+322,Sunglasses v13,Accessories,4884.79
+323,Belt v13,Accessories,4090.7
+324,Wallet v13,Accessories,4429.8
+325,Cap v13,Accessories,317.97
+326,Scarf v13,Accessories,3734.51
+327,Watch v13,Accessories,1793.49
+328,Sunglasses v14,Accessories,4666.92
+329,Belt v14,Accessories,4049.73
+330,Wallet v14,Accessories,4346.51
+331,Cap v14,Accessories,4090.6
+332,Scarf v14,Accessories,1479.67
+333,Yoga Mat v1,Sports,3978.4
+334,Dumbbell v1,Sports,717.86
+335,Resistance Band v1,Sports,4385.4
+336,Skipping Rope v1,Sports,4320.25
+337,Football v1,Sports,1266.68
+338,Cricket Bat v1,Sports,4118.62
+339,Yoga Mat v2,Sports,2408.46
+340,Dumbbell v2,Sports,1663.92
+341,Resistance Band v2,Sports,4016.66
+342,Skipping Rope v2,Sports,1291.46
+343,Football v2,Sports,312.59
+344,Cricket Bat v2,Sports,1126.02
+345,Yoga Mat v3,Sports,1774.66
+346,Dumbbell v3,Sports,4347.89
+347,Resistance Band v3,Sports,4840.07
+348,Skipping Rope v3,Sports,1538.8
+349,Football v3,Sports,3278.11
+350,Cricket Bat v3,Sports,2117.46
+351,Yoga Mat v4,Sports,4908.52
+352,Dumbbell v4,Sports,2772.84
+353,Resistance Band v4,Sports,4707.34
+354,Skipping Rope v4,Sports,752.64
+355,Football v4,Sports,4856.92
+356,Cricket Bat v4,Sports,1056.13
+357,Yoga Mat v5,Sports,4819.16
+358,Dumbbell v5,Sports,1473.24
+359,Resistance Band v5,Sports,719.33
+360,Skipping Rope v5,Sports,2284.91
+361,Football v5,Sports,3696.02
+362,Cricket Bat v5,Sports,1704.65
+363,Yoga Mat v6,Sports,3108.8
+364,Dumbbell v6,Sports,2653.83
+365,Resistance Band v6,Sports,2047.94
+366,Skipping Rope v6,Sports,2966.62
+367,Football v6,Sports,1421.67
+368,Cricket Bat v6,Sports,3601.17
+369,Yoga Mat v7,Sports,207.12
+370,Dumbbell v7,Sports,4641.76
+371,Resistance Band v7,Sports,2783.57
+372,Skipping Rope v7,Sports,3652.26
+373,Football v7,Sports,3760.36
+374,Cricket Bat v7,Sports,3418.02
+375,Yoga Mat v8,Sports,1947.26
+376,Dumbbell v8,Sports,534.87
+377,Resistance Band v8,Sports,3387.34
+378,Skipping Rope v8,Sports,1783.96
+379,Football v8,Sports,1705.8
+380,Cricket Bat v8,Sports,4269.47
+381,Yoga Mat v9,Sports,3653.82
+382,Dumbbell v9,Sports,1640.55
+383,Resistance Band v9,Sports,1683.57
+384,Skipping Rope v9,Sports,2159.29
+385,Football v9,Sports,2130.52
+386,Cricket Bat v9,Sports,1618.14
+387,Yoga Mat v10,Sports,809.98
+388,Dumbbell v10,Sports,2217.14
+389,Resistance Band v10,Sports,4712.75
+390,Skipping Rope v10,Sports,3450.13
+391,Football v10,Sports,4532.47
+392,Cricket Bat v10,Sports,3153.47
+393,Yoga Mat v11,Sports,1643.56
+394,Dumbbell v11,Sports,2829.1
+395,Resistance Band v11,Sports,200.95
+396,Skipping Rope v11,Sports,1576.19
+397,Football v11,Sports,2262.46
+398,Cricket Bat v11,Sports,2982.93
+399,Yoga Mat v12,Sports,3341.59
+400,Dumbbell v12,Sports,2430.94
+401,Resistance Band v12,Sports,2321.37
+402,Skipping Rope v12,Sports,1224.77
+403,Football v12,Sports,2470.29
+404,Cricket Bat v12,Sports,4524.67
+405,Yoga Mat v13,Sports,4019.92
+406,Dumbbell v13,Sports,1013.52
+407,Resistance Band v13,Sports,606.02
+408,Skipping Rope v13,Sports,2673.17
+409,Football v13,Sports,3237.12
+410,Cricket Bat v13,Sports,1807.9
+411,Yoga Mat v14,Sports,4127.43
+412,Dumbbell v14,Sports,3804.46
+413,Resistance Band v14,Sports,3428.42
+414,Skipping Rope v14,Sports,1277.28
+415,Football v14,Sports,1154.82
+416,Pillow v1,Home,316.24
+417,Lamp v1,Home,1374.24
+418,Mug v1,Home,2479.65
+419,Notebook v1,Home,4277.74
+420,Pen Set v1,Home,548.58
+421,Planner v1,Home,2188.32
+422,Pillow v2,Home,3221.87
+423,Lamp v2,Home,1132.29
+424,Mug v2,Home,3541.5
+425,Notebook v2,Home,2572.01
+426,Pen Set v2,Home,1370.13
+427,Planner v2,Home,3348.08
+428,Pillow v3,Home,225.62
+429,Lamp v3,Home,3803.63
+430,Mug v3,Home,3895.22
+431,Notebook v3,Home,710.62
+432,Pen Set v3,Home,2239.7
+433,Planner v3,Home,1043.26
+434,Pillow v4,Home,4797.24
+435,Lamp v4,Home,2685.2
+436,Mug v4,Home,440.05
+437,Notebook v4,Home,1395.15
+438,Pen Set v4,Home,4271.01
+439,Planner v4,Home,2390.02
+440,Pillow v5,Home,4045.8
+441,Lamp v5,Home,3403.37
+442,Mug v5,Home,4940.88
+443,Notebook v5,Home,3057.17
+444,Pen Set v5,Home,4759.19
+445,Planner v5,Home,4477.84
+446,Pillow v6,Home,3139.73
+447,Lamp v6,Home,3651.52
+448,Mug v6,Home,2621.94
+449,Notebook v6,Home,4185.73
+450,Pen Set v6,Home,2828.79
+451,Planner v6,Home,4505.6
+452,Pillow v7,Home,3768.55
+453,Lamp v7,Home,2477.44
+454,Mug v7,Home,1443.12
+455,Notebook v7,Home,1385.75
+456,Pen Set v7,Home,3259.77
+457,Planner v7,Home,3874.91
+458,Pillow v8,Home,2701.24
+459,Lamp v8,Home,3207.39
+460,Mug v8,Home,1517.07
+461,Notebook v8,Home,570.92
+462,Pen Set v8,Home,1570.5
+463,Planner v8,Home,1503.23
+464,Pillow v9,Home,1733.61
+465,Lamp v9,Home,2791.73
+466,Mug v9,Home,863.2
+467,Notebook v9,Home,1309.06
+468,Pen Set v9,Home,3529.96
+469,Planner v9,Home,3589.81
+470,Pillow v10,Home,507.3
+471,Lamp v10,Home,2155.48
+472,Mug v10,Home,2803.53
+473,Notebook v10,Home,2194.72
+474,Pen Set v10,Home,1191.81
+475,Planner v10,Home,2215.69
+476,Pillow v11,Home,4542.22
+477,Lamp v11,Home,3002.58
+478,Mug v11,Home,3537.51
+479,Notebook v11,Home,4311.31
+480,Pen Set v11,Home,3873.85
+481,Planner v11,Home,2024.83
+482,Pillow v12,Home,227.3
+483,Lamp v12,Home,1887.44
+484,Mug v12,Home,3815.68
+485,Notebook v12,Home,4295.55
+486,Pen Set v12,Home,4775.47
+487,Planner v12,Home,2210.3
+488,Pillow v13,Home,3787.08
+489,Lamp v13,Home,2820.44
+490,Mug v13,Home,3094.61
+491,Notebook v13,Home,1257.59
+492,Pen Set v13,Home,1252.22
+493,Planner v13,Home,2291.01
+494,Pillow v14,Home,338.32
+495,Lamp v14,Home,1812.42
+496,Mug v14,Home,3458.88
+497,Notebook v14,Home,2139.72
+498,Pen Set v14,Home,991.21

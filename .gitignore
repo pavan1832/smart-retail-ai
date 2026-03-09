@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Data (too large for GitHub)
+data/retail_sales.csv
+data/inventory.csv
