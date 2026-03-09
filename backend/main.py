@@ -35,16 +35,12 @@ def create_app() -> FastAPI:
 
     # CORS — allow React dev server and production origins
     app.add_middleware(
-        CORSMiddleware,
-        allow_origins=[
-            "http://localhost:3000",
-            "http://localhost:5173",
-            "https://*.vercel.app",
-        ],
-        allow_credentials = True,
-        allow_methods     = ["*"],
-        allow_headers     = ["*"],
-    )
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
     app.include_router(router, prefix="/api/v1")
 
